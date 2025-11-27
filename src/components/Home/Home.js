@@ -10,7 +10,7 @@ function Home(){
         </div>
 
         <div className="content-section">
-            <h2>Home Page</h2>
+            <h2>Home Page demooo</h2>
             <p>
             This is the Home component created with separate JS, CSS, and Images.
             </p>
